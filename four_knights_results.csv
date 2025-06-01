@@ -1,0 +1,5 @@
+Method,Moves,NodesExpanded,TimeSeconds
+B&B,16,612,0.002000093460083008
+A* (div2),16,595,0.0039997100830078125
+A* (no_div),16,571,0.0
+A* (misplaced),16,605,0.0
